@@ -17,7 +17,7 @@ from generate_image import generate_image
 image_gen_model = initialize_model()
 
 # Generate images
-prompts = ["astronaut in moon", "sunset over the ocean", "lush green forest"]
+prompts = ["astronaut in moon"]
 generated_images = generate_image(prompts, image_gen_model, num_images=3)
 
 # Display generated images
