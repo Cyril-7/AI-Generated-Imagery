@@ -1,6 +1,6 @@
 ![Screenshot 2024-04-27 214815](https://github.com/Cyril-7/AI-Generated-Imagery/assets/129573220/e31ba38c-23d0-495d-adbb-34e1d5274aab)
 
-📷 AI-Generated Imagery 📸 
+##📷 AI-Generated Imagery 📸 
 This repository contains code for generating images from prompts using a pre-trained Stable Diffusion model. The model allows for customizable guidance scale, enabling fine-tuning of generated image characteristics.
 
 ## Usage
